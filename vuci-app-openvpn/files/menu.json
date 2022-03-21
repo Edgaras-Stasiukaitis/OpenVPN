@@ -1,0 +1,11 @@
+{
+    "services/vpn": {
+        "title": "VPN",
+        "index": 30
+    },
+    "services/vpn/openvpn": {
+        "title": "OpenVPN",
+        "view": "vuci-app-openvpn",
+        "index": 31
+    }
+}
